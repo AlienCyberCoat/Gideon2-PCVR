@@ -1,5 +1,5 @@
 # Gideon2 PCVR
-Gideon2 PCVR framework and configurations for PCs running Steam VR.
+Gideon2 PCVR framework and configurations for PC's running Steam VR.
 
 Gideon2 C# Unity follows basic methods and format of Gideon1 but with improvements to UI, ACC FPS controllers, A.I and VR interaction.
 
