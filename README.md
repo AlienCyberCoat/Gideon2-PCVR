@@ -1,5 +1,5 @@
 # Gideon2VR
-Gideon2VR using Unity and Gideon2 custom configurations by ACC for VR gameplay for PC's running SteamVR. 
+Unity Gideon2VR custom configurations by ACC for VR gameplay for PC's running SteamVR. 
 
 Custom intergrations include
 
