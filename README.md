@@ -1,5 +1,5 @@
 # Gideon2VR
-Unity Gideon2VR custom configurations by ACC for VR gameplay for PC's running SteamVR. 
+Unity Gideon2VR configuration VR gameplay PC SteamVR. 
 
 Added
 - New MIDI 1.0 (MidiBridge removed)
